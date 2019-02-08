@@ -1,0 +1,62 @@
+[3:26 PM] Joe: Github repository: https://github.com/UoSGroupProjects1819/mgp-team-23
+
+Jira: http://jira.waterfrontgames.com:8080/secure/Dashboard.jspa
+GitHub
+UoSGroupProjects1819/mgp-team-23
+mgp-team-23 created by GitHub Classroom. Contribute to UoSGroupProjects1819/mgp-team-23 development by creating an account on GitHub.
+
+Joe pinned a message to this channel. See all the pins.01/30/2019
+Swoooosh. Wuushi just landed.01/30/2019
+[3:45 PM] Kacey: What is the username for Jira? id it your first name followed by an initial?
+[3:46 PM] Joe: Your first initial followed by your surname, should be 'kevans'
+[3:46 PM] Kacey: thank you
+[3:46 PM] Joe: No worries :smiley:
+Big Tomas showed up!01/30/2019
+Welcome, MoxyBlack16. Stay awhile and listen.01/31/2019
+[10:01 AM] Andreea M.: Hello everyone! The design task are up on Jira. Please check the description for them. @Tomas
+[1:54 PM] Joe: Hi guys, @Kacey I have created a task for each of us on Jira. I've kept it simple, just fill out the brief sheet once or twice with ideas and don't worry about the design sections - just the programming ones. I've only allocated an hour each, as I expect we'll do some programming tasks later this week.
+[2:04 PM] Kacey: Where can we find that brief sheet? i cant seem to find it on brightspace?
+[2:07 PM] Andreea M.: it is on brightspace
+[2:07 PM] Andreea M.:
+
+[2:08 PM] Andreea M.: i hope this would be useful to you
+[2:08 PM] Joe: I'll upload the file directly to here as well, one sec
+[2:08 PM] Joe:
+Attachment file type: document
+Your_Outline_Project_Brief.docx
+12.76 KB
+[2:09 PM] Andreea M.: thank you @Joe
+[2:09 PM] Kacey: thank you! For some reason its not on my Brightspace
+[2:10 PM] Joe: May be different on the level 4 courses for some reason
+[5:05 PM] Joe: @Kacey - can see you've moved the work in to verify which is great, could you just log the time it took on there for me (here: https://i.imgur.com/ELKgar8.png) and then I'll move it in to done
+
+[5:06 PM] Joe: Ah - think you logged the time on my task instead of yours - will just swap it over
+[5:06 PM] Joe: all done
+[5:11 PM] Kacey: Sorry of that was the case :sweat_smile:
+[5:12 PM] Joe: Don't worry - very easily fixed!
+[5:54 PM] Joe: I've also added two simple ideas, renamed the brief documents so we know who's done them, and put them in a folder
+[7:34 PM] Tomas: Cool, I will do it tomorrow/Sunday :slight_smile:
+[7:34 PM] Tomas: i mean Saturday
+[7:37 PM] Andreea M.: no problem :smiley: as long as they are done before Wednesday it will all be good
+[4:30 PM] Andreea M.: Hello everyone! @Joe may I please ask you to create a folder on our team's GitHub repository for Communication in which we can include our discussions? Also,  @Joe  and @Kacey ,I had a look at your completed briefs and, if I don't ask for too much, would it be possible to fill into the "what emotions are you looking for the players to have?" slot. Your player feedback comments are very good and it would be fairly easy to associate some emotions to them. Don't be concerned about using design terminology since we can discuss about what each of us have written on Wednesday.
+[4:33 PM] Andreea M.: @Tomas , I saw your task on Jira being moved into "To Verify" , but unfortunately I could not see it on Github, therefore not having what to check. I will be gone at work for the next couple of hours but I will be able to check any document after.
+[4:34 PM] Andreea M.: Thank you!
+[4:38 PM] Joe: Stuck in work all weekend, will try and get to my PC to sort that briefly this evening - else it's very easy to set up a folder on there if anyone has the time - if you use the Github desktop client you'll be able to clone the repository and add / change folders etc. and then just push the changes. If not no worries, I'll get round to it on Monday if not tonight.
+[6:48 PM] Tomas: @Andreea M. Yeah well I thought I will upload only my completed brief on GitHub and those researches I will keep for myself. But no problem, I can upload them as well. Would it be better if they were in some folder, right?
+[7:58 PM] Joe: Folder added - brief's updated. @Tomas if you just add it in to the same folder with the completed brief's, I've renamed it so it'll make sense. :smiley:
+[6:31 PM] Tomas: I apologize in advance for my English. If something irritates you, just tell me, I don't mind. :smiley:
+[6:41 PM] Andreea M.: It is ok. I checked it and it is mostly understandable. We will discuss on Wednesday as a group and you will get the chance to explain your idea better if unclear.
+[6:42 PM] Andreea M.: There is one more task in progress @Tomas . Since you came up with 2 potential ideas for the game brief you could put it into verify
+[6:43 PM] Tomas: ok cool
+[6:43 PM] Andreea M.: please don't forget to log the time
+[6:44 PM] Tomas: done :slight_smile:
+[6:44 PM] Andreea M.: I have moved it into Done since I already had a look at your work
+[6:45 PM] Andreea M.: Good job @everyone for completing the tasks in time! We will be meeting on Wednesday to discuss and compile a final brief for the group project game.
+[11:05 AM] Kacey: We start at 12 don't we
+[11:05 AM] Tomas: yes
+[11:06 AM] Andreea M.: yes, we do
+[11:06 AM] Kacey: Yay. Turned up at the early session
+[11:06 AM] Kacey: Thank you
+[11:47 AM] Andreea M.: i am in the labs now
+[11:48 AM] Joe: I'll be there in a few mins
+[11:48 AM] Andreea M.: no problem
