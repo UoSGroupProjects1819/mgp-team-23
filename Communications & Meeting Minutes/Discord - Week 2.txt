@@ -1,0 +1,38 @@
+11:12 AM] Joe: Discord logs for week 1 are up on Github - just a .txt file - will have a poke at the Unity prototype probably on Monday and get that up there too. :smiley:
+[11:17 AM] Andreea M.: thank you, @Joe
+[7:57 PM] Andreea M.: I accidentally changed the estimate time for my task  while trying to log work, sorry
+[7:13 AM] Joe: No worries - I did the same last week, I think you should be able to just change it back?
+[11:27 AM] Andreea M.: i did, now everything should be good
+[5:37 PM] Tomas: Do you want to meet before the Group Project starts?
+[5:53 PM] Joe: The labs will have the other groups in before 12, I'm happy to do what ever works but might be best to just meet at 12, how are people for staying a bit later tomorrow? I can do it but equally happy to have us set more tasks and leave at 3.
+[6:00 PM] Tomas: I can stay later
+[6:22 PM] Andreea M.: I am only available until 4
+[6:24 PM] Andreea M.: is there any reason in particular to come earlier or stay more?
+[6:28 PM] Andreea M.: I think at any point we could stay longer than the 3 hour group jam, but the extra hours won't go towards it. If there is anything you would need help with during the next weeks @Tomas  (or anyone else) regarding your tasks we can schedule  a meeting.
+[6:32 PM] Tomas: I was just wondering. Thank you, I think I am okay for now. :slight_smile:
+[6:32 PM] Andreea M.: no problem
+[1:37 AM] Joe: Hi all, I've just done a big commit - I've condensed the folder structures down, meeting minutes are within communications, and all research is within completed brief idea's & research & 3 folders within that - there's also a Unity Projects folder that we'll start using as of this commit. Myself and Kacey have added two projects in to there for us two to develop from on Wednesday.
+[11:07 AM] Andreea M.: @Joe  would it be possible, please, to create a folder called 3d models in which you could include 2 other folders : FBX files and 3Ds max files?
+[11:08 AM] Andreea M.: they can all be added during the jam
+[11:08 AM] Joe: Sure thing
+[11:08 AM] Andreea M.: Also, thank you very much for letting us know about the changes made to github.
+[11:10 AM] Joe: Didn't want anyone to look at it and panic! Those folders are added, there's a readme file in each one currently because Git cannot show empty folders - just delete that when you add things in to them.
+[11:11 AM] Andreea M.: I see, thank you! that was very fast
+[11:57 AM] Joe: You guys in the labs yet? Not sure if it's the other groups in there still
+[12:02 PM] Kacey: It's a mix
+[12:02 PM] Kacey: I'm.in here
+[12:04 PM] Joe: We're in the programming side
+
+
+PM Conversation 12/02/19:
+1:27 AM] Wuushi: G'mornin. sorry about the early late question but whats the best way to add things into a folder in git
+[1:27 AM] Shads: No worries - get the Github desktop client, that way you pull the entire project to a local repository on your PC - you can then faff around with the folder structures, add entire Unity projects in to there, change anything you want and then commit those changes
+[1:28 AM] Shads: Alternatively just upload what ever you need and ping me on here, I can sort it
+[1:28 AM] Shads: and move stuff etc
+[1:29 AM] Wuushi: Aye i added a poorly worded code section the a working test code in unity but its 3 separate folders under research
+[1:31 AM] Shads: I've moved it in the structure, also adding my own one - I've just kept the assets folder and your code .cs file, we don't need the project settings or packages folders etc
+[1:32 AM] Shads: although having said that I've just dumped my entire project in there because laziness
+[1:32 AM] Wuushi: haha. I just kept what i remeber from last semester
+[1:33 AM] Wuushi: I got a way to bind the cursor to the playable area and add in vertical cam movement for the player
+[1:34 AM] Shads: awesome - then you got further than me, you'll laugh at what I've made. Anyway - PMs are all cool but I'm gonna add this convo to the weekly logs, should try to keep group project stuff within the main discord and just @me if you need to, simply because the tutors want it done that way
+[1:35 AM] Wuushi: alright. I'll keep that in  mind
