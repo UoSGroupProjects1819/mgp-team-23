@@ -13,9 +13,26 @@ public class Movement : MonoBehaviour {
     void Update()
     {
         Rigid.MoveRotation(Rigid.rotation * Quaternion.Euler(0, Input.GetAxis("Mouse X") * MouseSensitivity, 0));
-        this.playerCamera.transform.Rotate(Input.GetAxis("Mouse Y"), this.transform.rotation.y, this.transform.rotation.z);
+        Debug.Log(this.playerCamera.transform.rotation.x);
+
+        if (this.playerCamera.transform.rotation.x <= -0.68f)
+        {
+            this.playerCamera.transform.Rotate(-0.67f, 0, 0);
+        }
+        else if (this.playerCamera.transform.rotation.x >= 0.68f)
+        {
+            this.playerCamera.transform.Rotate(0.67f, 0, 0);
+        }
+        else
+        {
+            this.playerCamera.transform.Rotate((Input.GetAxis("Mouse Y") * MouseSensitivity) * -1, 0, 0);
+        }
+
         Rigid.MovePosition(transform.position + (transform.forward * Input.GetAxis("Vertical") * MoveSpeed) + (transform.right * Input.GetAxis("Horizontal") * MoveSpeed));
-        if (Input.GetKeyDown("space"))
-            Rigid.AddForce(transform.up * JumpForce);
+
+        //if (Input.GetKeyDown("space"))
+        //{
+        //    Rigid.AddForce(transform.up * JumpForce);
+        //}
     }
 }

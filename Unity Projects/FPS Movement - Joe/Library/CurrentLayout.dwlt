@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 10
+  controlID: 23
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 11
+  controlID: 24
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -176,8 +176,8 @@ MonoBehaviour:
     y: 0
     width: 478
     height: 645
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -517,7 +517,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 5aaeffff48efffff00000000
+    m_ExpandedIDs: 2ef6ffff00000000de2e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -536,7 +536,7 @@ MonoBehaviour:
       m_ClientGUIView: {fileID: 8}
     m_SearchString: 
   m_ExpandedScenes:
-  - MainScene
+  - SampleScene
   m_CurrenRootInstanceID: 0
   m_LockTracker:
     m_IsLocked: 0
@@ -572,9 +572,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -24.191448, y: -11.361656, z: 0.71916103}
+    m_Target: {x: -11.699728, y: -1.0087061, z: 13.181592}
     speed: 2
-    m_Value: {x: -24.191448, y: -11.361656, z: 0.71916103}
+    m_Value: {x: -11.699728, y: -1.0087061, z: 13.181592}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -602,13 +602,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.21435541, y: 0.52587074, z: -0.13894187, w: -0.8112995}
+    m_Target: {x: -0.088745475, y: 0.3033502, z: -0.028388437, w: -0.94831276}
     speed: 2
-    m_Value: {x: -0.21435541, y: 0.52587074, z: -0.13894187, w: -0.8112995}
+    m_Value: {x: -0.088745475, y: 0.3033502, z: -0.028388437, w: -0.94831276}
   m_Size:
-    m_Target: 36.97904
+    m_Target: 30.616621
     speed: 2
-    m_Value: 36.97904
+    m_Value: 30.616621
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -688,14 +688,15 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Joseph\Desktop\Group Project\FPS Movement
+  m_LastProjectPath: C:\Users\Games\Documents\Dev\mgp-team-23\Unity Projects\FPS Movement
+    - Joe
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 78310000
-    m_LastClickedID: 12664
-    m_ExpandedIDs: 000000007831000000ca9a3b
+    m_SelectedIDs: e42c0000
+    m_LastClickedID: 11492
+    m_ExpandedIDs: 00000000e42c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -723,7 +724,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000e42c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
