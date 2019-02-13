@@ -13,7 +13,7 @@ public class Movement : MonoBehaviour {
     void Update()
     {
         Rigid.MoveRotation(Rigid.rotation * Quaternion.Euler(0, Input.GetAxis("Mouse X") * MouseSensitivity, 0));
-        Debug.Log(this.playerCamera.transform.rotation.x);
+        //Debug.Log(this.playerCamera.transform.rotation.x);
 
         if (this.playerCamera.transform.rotation.x <= -0.68f)
         {
