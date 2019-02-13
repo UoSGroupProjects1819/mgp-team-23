@@ -17,5 +17,9 @@ public class ThrowObject : MonoBehaviour
             GetComponent<Rigidbody>().AddForce(playerCamera.transform.forward * throwStrength, ForceMode.Impulse);
             held = false;
         }
+        if (Input.GetMouseButtonDown(1) && held == false)
+        {
+            held = true;
+        }
     }
 }
