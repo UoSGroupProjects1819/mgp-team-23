@@ -39,14 +39,6 @@ public class MoveObject : MonoBehaviour
             item.transform.position = guide.transform.position;
         }
 
-        if (Input.GetMouseButtonDown(1))
-        {
-            item.GetComponent<Rigidbody>().useGravity = false;
-            item.GetComponent<Rigidbody>().isKinematic = true;
-            item.transform.position = guide.transform.position;
-            item.transform.rotation = guide.transform.rotation;
-            item.transform.parent = tempParent.transform;
-        }
 
         if (Input.GetMouseButtonUp(1))
         {
