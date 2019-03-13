@@ -4,34 +4,38 @@ using UnityEngine;
 
 public class EnemySpawning : MonoBehaviour
 {
-    public Transform spawnPosition;
-    public GameObject ObjectToSpawn;
-    public float RateOfSpawn = 1;
-    private int MaxThrowables = 3;
-    private int ThrowableCounter = 0;
+    public GameObject[] objectsToSpawn;
+    public Transform[] spawnPoints; 
 
-    private float nextSpawn = 0;
-
-    // Update is called once per frame
-    void Update()
+    public int spawnCount; 
+    private readonly int objectIndex = 0; 
+    private int spawnIndex; 
+    private void Start()
     {
-
-        if (Time.time > nextSpawn)
+        for (int i = 0; i < spawnCount; i++)
         {
-            nextSpawn = Time.time + RateOfSpawn;
 
-            if (ThrowableCounter < MaxThrowables) ;
-                Instantiate(ObjectToSpawn, spawnPosition.position, ObjectToSpawn.transform.rotation);
-            ThrowableCounter++;
- 
+            spawnIndex = Random.Range(0, 3);
+
+
+            GameObject go = Instantiate(objectsToSpawn[objectIndex], spawnPoints[spawnIndex].position, Quaternion.identity);
+        }
+    }
+
+
+
+    private void OnDrawGizmos()
+    {
+        Gizmos.color = Color.red;
+        for (int i = 0; i < spawnPoints.Length; i++)
+        {
+            Gizmos.DrawSphere(spawnPoints[i].position, 0.5f);
         }
     }
 }
 
 
 
-        
 
-    
 
 

@@ -7,7 +7,7 @@ public class PlayerMovement : MonoBehaviour {
     public Rigidbody Rigid;
     public float MouseSensitivity;
     public float MoveSpeed;
-    public float JumpForce;
+   // public float JumpForce;
     public GameObject playerCamera;
 
     Quaternion _initialOrientation;
