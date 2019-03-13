@@ -1,0 +1,12 @@
+if (Random.value > .5) {
+  stuff.velocity.x = 10 * 10 * Random.value;
+}
+else {
+  stuff.velocity.x = -10 * 10 * Random.value;
+}
+if (Random.value > .5) {
+  stuff.velocity.z = 10 * 10 * Random.value;
+}
+else {
+  stuff.velocity.z = -10 * 10 * Random.value;
+}
