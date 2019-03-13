@@ -1,0 +1,67 @@
+9:56 AM] Joe: Also uploaded discord logs for week 3 (very quiet sorry!) and moved the communications pictures in to a different folder (still inside communications)
+[9:57 AM] Andreea M.: thank you for letting us know!
+[9:58 AM] Joe: No problem - I don't have anything else coming up that may overlap so this should be the only week I miss! Have fun today. :smiley:
+[9:59 AM] Andreea M.: i hope everything goes well at the doctor's, i am sure we can sort it out today. :)
+[1:35 PM] Andreea M.: @Joe  i did not write anything for the programming task for this week in the meeting minutes. i gave kacey a temporary task for today. if there is anything else that should be in the meeting minutes , please feel free to modify it and let us know
+[1:36 PM] Andreea M.: also, we need to crete to different chategories on this server, one for design and one for programming. it seems to be necessary since tomas has design realated questions and i would like to avoid private messaging if it involves group project
+[6:39 PM] Joe: I've added the two chat channels - we can keep this one for general discussion. How did you guys get on today? I'll have a ponder over tasks for this week and sort myself and Kacey out. :smiley:
+[6:43 PM] Andreea M.: thank you very much ! i think everything went well in terms of the group jam. I consider the feedback we received today a bit confusing. Rob said that the way we replaced the mechanic was not the ideal solution and instead of manipulating objects and throwing them at enemies we could have traps set on the ground. Even so, once i told him Dave said it meets the brief , he said to do as Dave said.
+[6:46 PM] Andreea M.: we talked about it today as a team and we will keep everything as it is for now and after receiving feedback from the first presentation we may put in traps instead. We should talk about in in depth when all of us are in the labs
+[6:47 PM] Andreea M.: i hope i was clear and my message is easy to comprehend
+[6:48 PM] Joe: Yeah makes sense, interesting to think about - could potentially even combine the two ideas. Something to talk about next week at least.
+[6:50 PM] Andreea M.: yes, i have been thinking about something , i will include it in my design document for next week
+[12:25 PM] Andreea M.: So , i have been researching a bit more and i found the answers that i was looking for. The mechanic we chose is still considered indeed shooting mechanic which does not meet the brief. even so it lacks so many aspect of the actual shooting mechanic that it becomes a subgenre for it. The feedback we got was too confusing for me so i did a bit of digging. Luckily enough we don't have to change too much of what we have for now. the assets remain the same, the mechanics just need a bit of adjusting. I would strongly suggest to go for Rob's suggestion about traps. We would still have object manipulation , but instead of throwing we would have placing and snapping objects to the traps in order to lure the rats and destroy them. It may be an abrupt change but it is better now than 2 weeks before hand in.
+[12:25 PM] Andreea M.:
+
+[12:26 PM] Andreea M.: this is a bit of what i read, i had to print screen it as it requires subscription to access
+[12:28 PM] Andreea M.:
+
+[5:36 PM] Tomas: Hey @everyone , I'm not in the UK right now, so I won't be there for tomorrow's Group Project session. I might be on Discord if you would need anything from me. I will be back in the UK on March 4th or 5th.
+[5:38 PM] Andreea M.: thank you for letting us know!
+[9:58 PM] Joe: Thanks for the heads up Tomas and no worries :smiley: with regards to the mechanic change, we'll have to make that our focus of discussions tomorrow - most of the programming has been on the one we were going to have, so it'll be a bit of re-scoping and figuring out a sense of direction to go with the traps thing instead, but that's not an issue really; I'd like to consider perhaps throwing the traps? Something to toy around with maybe, the gameplay (in my head) of simply laying traps for rats on pre-determined paths doesn't strike me as fun, but I haven't considered too deeply other elements we could bring in to make it more engaging (environmental things / level design etc). Look forward to discussing it tomorrow either way. :smiley:
+[12:26 AM] Andreea M.: @Joe  just had a look on jira and you did not log work time for one of the tasks you have put into done
+[11:15 AM] Joe: My mistake, will fix that now
+[11:17 AM] Joe: I meant to delete the task instead of move it, but completely forgot, fixed now
+[2:39 PM] Andreea M.: @Tomas  your tasks are up on Jira. please have a look at the description as i provided reference picture for the models that you have to provide
+[3:38 PM] Tomas: Ok
+[12:02 PM] Andreea M.: hey @everyone! i won t be able to complete any of the tasks this weekend as i am out of Ipswich. Also, because i won t have access to a computer or the programs, i won t be able to verify any work until Monday @Tomas . i apologize for any inconvenience caused , if any. you can feel free to message me if there are any questions related to the project
+[12:02 PM] Joe: No worries, enjoy your weekend away :smiley:
+[12:03 PM] Andreea M.: thank you!
+[6:57 PM] Andreea M.: Hello @everyone ! Can we have a group meeting tomorrow from 12 in order to put together the presentation ?
+[6:58 PM] Andreea M.: it can even be from 1 to 2 , depending on your schedule
+[7:03 PM] Tomas: unfortunately, I won't be in Ipswich before 3 pm
+[7:05 PM] Andreea M.: No problem! we will have another meeting before the presentation. Unfortunately that would be very early in the morning. We need to rehearse for it
+[4:16 AM] Kacey: Where shall we meet?
+[4:18 AM] Joe: Just in the labs - 1pm would work a lot better for me than 12, but either one is fine really
+[8:16 AM] Andreea M.: than 1 it is , thank you for your reply!
+[9:37 AM] Joe: Ok cool, see you both at 1. :)
+[12:57 PM] Joe: We're in the design side labs @Andreea M.
+[1:02 PM] Andreea M.: i am coming up the stairs, sorry
+[1:50 PM] Andreea M.: i will soon upload the presentation on gothub. it still needs a video that would be embedded later today by @Joe .
+[1:52 PM] Andreea M.: @everyone  has a part to talk about. @Kacey  slide 1, @Tomas    slide 2 @Joe slide 3 @Andreea M. slide 4 , @Joe  video @Joe  and @Andreea M.  final slide about progress and what follows to be added
+[1:53 PM] Andreea M.: @Tomas  i would like to know if you can complete any of the tasks before the presentation. i noticed that there was no task put into in progress. we would need some of the assets in order to show our progress in the presentation
+[1:54 PM] Andreea M.: @Joe  could you please upload on GitHub what we have worked on today in the level? thank you
+[2:01 PM] Joe: Already done - uploaded it after you finished
+[2:34 PM] Andreea M.: oh , great
+[2:34 PM] Andreea M.: the PowerPoint is on github, the minutes are there too
+[3:07 PM] Joe: Brilliant cool, I'll record and upload the video this evening.
+[3:09 PM] Andreea M.: perfect, thank you!
+[6:02 PM] Tomas: I will do every assets, sorry for not responding. Do you want to meet up tomorrow morning ?
+[9:24 PM] Joe: Hey guys - how is this? It's about one minute, shows off some of the assets, and demonstrates the currently working mechanics https://www.youtube.com/watch?v=hAZUEgPwBEs
+YouTube
+Shaduxx
+Rat Game Demonstration
+
+[9:26 PM] Joe: I believe the plan is to come in a little early tomorrow Tomas to run through the presentation, I'd say around 9:15am (the presentations session starts at 09:45am) 30 minutes early.
+[9:34 PM] Tomas: Okay thanks @Joe
+[9:37 PM] Tomas: And the video looks fine :clap:
+[11:38 PM] Andreea M.: @Joe  i love it ! thank you
+[11:41 PM] Andreea M.: 9:15 sound great , see you in the morning and get a good rest !
+[2:43 PM] Joe: Updated the meeting minutes :smiley: sorry they're in the wrong place currently but I'll fix that tomorrow
+[2:43 PM] Andreea M.: no problem
+[9:30 PM] Tomas: hey guys, how easy is it to mirror an object in Unity? @Kacey @Joe I was thinking that I could just upload one half of the gate to Github and the second half we would just mirror. There will be more freedom with placing it (I have two types - open and closed gate). But only if it's not something difficult.
+[9:31 PM] Joe: Hi Tomas, I think it's fairly easy - we should be able to just manipulate the transform. We can try it on Wednesday.
+[9:32 PM] Tomas: Okay, thank you.
+[10:02 PM] Andreea M.: Also @Tomas  , there is no need for mirroring in Unity , for any eventuality we still have this option in 3ds max
+[10:03 PM] Andreea M.: it remains to be seen if this feature is needed when we get to build the level
+[10:19 AM] Andreea M.: hey everyone! just letting you know that the ui sprites have been uploaded to github. even so, jira does not seem to be working for me today and i cannot put my task into done and log time. I will do it at university at the start of our jam

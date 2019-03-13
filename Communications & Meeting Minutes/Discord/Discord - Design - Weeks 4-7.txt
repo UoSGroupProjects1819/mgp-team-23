@@ -1,0 +1,71 @@
+Shads
+#1569
+
+[4:25 PM] Andreea M.: @Tomas  lovely job with the assets, very nice textures! i have put your work into done
+[6:59 PM] Tomas: @Andreea M. oh, thank you! I appreciate it
+[2:27 PM] Andreea M.: another task has been verified for you and put into done. Impressive work! Really good visual representation of what we want in the game. Keep up the good work!
+[5:44 PM] Tomas: Thank you very much. It means a lot to hear this from you. I will upload my hotdog asset before the session starts. I can work from home so you can give me as many tasks as you want.
+[7:55 PM] Tomas: Will we meet tomorrow before our class starts?
+[9:06 PM] Tomas: I've got some problems with flipped UVW faces on my trap assets, I can't get rid of them. I will finish my other assets meanwhile and if I won't fix traps, could you look at it with me tomorrow before our class please? @Andreea M.
+[11:40 PM] Andreea M.: Yes, sure thing @Tomas ,meet you at 9:15 in the labs tomorrow , i will verity your tasks in the morning as well since my computer has a full memory and does not allow any more downloads
+[9:09 AM] Andreea M.: @Tomas , i had a look at your work. generally speaking it is very good but there are some things that need to be changed such as : pivot point for cheese asset is not centered to the object, the barrels have ngons but i don t think it will affect the game in any major way, the tire max file is warning me that there is a missing file named tire_col. i cannot find this texture file anywhere on github
+[9:10 AM] Andreea M.: i will put the chees and tires back into in progress until these tiny changes are made
+[9:11 AM] Andreea M.: i am sure these won t take longer thab 5 minutes to change and re-upload. please log time on jira after tasks are done
+[9:13 AM] Tomas: Okay sorry. I will fix it, thanks for telling me.
+[1:29 PM] Andreea M.: @Joe  the minutes were uploaded on github , i left space for it to be completed by you
+[4:58 PM] Tomas: Hi, I have a question about the modular asset for fence. If I understand it right, it should be one part/piece of the fence, so its copies can be placed next to each other to create complete fence, right?
+[4:58 PM] Tomas:
+
+[4:59 PM] Tomas: Something like this? @Andreea M.
+[5:15 PM] Andreea M.: yes, it looks right from the sketch
+[5:15 PM] Andreea M.: you can just take a texture from the internet as well , as long as it has margins everything should be good
+[5:37 PM] Tomas: Ok, thank you
+[9:45 PM] Tomas: If you will have any suggestions or ideas to any of my work I've uploaded, just say and I will edit it later. I know it might sometimes look different than you would expect.
+[10:02 PM] Andreea M.: I have just checked your latest completed task. Your work is good and at a good standard. Not only it is correct but you took into consideration the reference images that I provided to you and created a low poly equivalent, you centered the pivot point correctly (including for the gates) and you made sure of the x view checks being all on point. I checked the textures as well and everything looks good once applied to the model
+[10:03 PM] Andreea M.: I am personally satisfied with your work
+[11:05 PM] Tomas: I am glad you like it. Thank you
+[11:03 AM] Tomas: @Andreea M. and about the grass, I watched some youtube videos and I think those tutorials are just for render and not for importing to other programs, for example into Unity. Do you know how to make a simple grass or can you send me some link with tutorial?
+
+Or I could manually create like 3 pieces of grass and spam it throughout the ground?
+[11:06 AM] Andreea M.: oh but you don't have to create a 3d model for grass. You have to do exactly what you have been thought by Dave in 3d modelling in the lecture with creating environments
+[11:07 AM] Andreea M.: you need to make a plane with grass and an opacity map on it
+[11:09 AM] Andreea M.:
+
+[11:10 AM] Tomas:
+
+[11:10 AM] Andreea M.: yes
+[11:10 AM] Andreea M.: that is good
+[11:10 AM] Tomas: Like this? Oh I thought it wont be visible in Unity
+[11:10 AM] Andreea M.: it should be visible
+[11:11 AM] Andreea M.: we will test it and if it does not work we will find a solution
+[11:11 AM] Tomas: Okay, my bad, sorry
+[11:11 AM] Tomas: Yeah
+[11:11 AM] Andreea M.: no problem
+[11:11 AM] Andreea M.: don't forget to populate a plane that has the shape of our level with the grass bits
+[11:12 AM] Andreea M.: good job so far, it looks good!
+[11:13 AM] Tomas: Yes, thank you
+[4:59 PM] Tomas: It's on Github now. It might not look nice in 3ds max, but I tried it in Unity and it looks fine there :ok_hand:
+[5:02 PM] Tomas: Ground and grass are divided into 2 Max and FBX files, they are not together
+[5:16 PM] Andreea M.: it is not a problem that they are sepparated
+[5:16 PM] Andreea M.: i cannot find the opacity map for the grass
+[5:16 PM] Andreea M.: it does not seem to be on github
+[5:20 PM] Tomas: Yes the opacity is not there, because it is not needed. I talked to Dave today, about this, and he showed me how it can be done, opacity is in tga file already. I can show you tomorrow
+[5:21 PM] Andreea M.: oh ok
+[5:21 PM] Andreea M.: thank you
+[5:23 PM] Andreea M.: i have just seen
+[5:23 PM] Andreea M.: even so, there is a green line going on above the grass texture, if you lower the top edge in the uvw editor it should dissapear
+[5:24 PM] Andreea M.:
+
+[5:25 PM] Tomas: Yeah, I've noticed it too. It can be edited in Unity, but I can do it in the uvw editor later as well.
+[5:25 PM] Tomas:
+
+[5:26 PM] Tomas: (The left one) how it looks like in Unity
+[5:26 PM] Andreea M.: all good then, have not used unity too know it well enough
+[5:26 PM] Andreea M.: I have put your task into done
+[5:27 PM] Tomas: Me neither, Dave showed me all this today
+[5:27 PM] Tomas: Ok
+[5:27 PM] Andreea M.: that is very good , i am glad you had his guidance
+[5:27 PM] Andreea M.: as usual, good job
+[5:27 PM] Andreea M.: !
+[5:27 PM] Joe: These assets are looking awesome guys, very impressed!
+[5:28 PM] Tomas: Thank you

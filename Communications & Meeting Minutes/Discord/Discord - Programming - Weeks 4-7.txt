@@ -1,0 +1,15 @@
+[11:33 AM] Joe: Hey @Kacey, sorry I haven't put up any tasks for us this week yet - haven't had a chance to check the project since Wednesday. Where does it stand currently and what works/doesn't? I'll be working all weekend but can spend tomorrow evening figuring stuff out and set some goals for Wednesday next week.
+[1:19 PM] Kacey: Currently it all works in regards to movement/ aiming and the ability to pick up objects only in close proximity to launch them. In the script I uploaded I also go it would be every instancible so everyone that spanned can also be picked up
+[8:02 PM] Joe: Ok fab - will have a proper look through tomorrow evening and set us up some minor tasks. :smiley:
+[5:44 PM] Joe: Hi @Kacey - I've added a couple of tasks for us both, what I think would be good for you to have a look at is destroying of the object + a 'target' block
+[5:45 PM] Joe: The target block can literally just be a blank square for now, what we'd like to achieve is have the object you throw destroy the 'target' + itself on collision
+[5:46 PM] Joe: If you can take a look at that, I'll work to bring your script in to the Unity project and combine it with the movement that I had, and that way from Wednesday we can work entirely within the one Unity project which should make things more simple going forward. :smiley:
+[5:46 PM] Kacey: I do believe that's what I uploaded
+[5:47 PM] Kacey: With some extra scripts that have spawning and a nonworking attempt at collision because it detected everything :sweat_smile:
+[5:48 PM] Kacey: In "kacey scripts" under week 4
+[5:48 PM] Joe: Okay brill - in that case honestly feel free to move the tasks straight to review and log some time on them
+[5:49 PM] Joe: In my head with that working that's where I wanted us to be at by Wednesday so good job
+[5:49 PM] Kacey: Yeah I tried different combos and ended up with your movement and the firing I did  though yes like I say collision was being a pain with the rest of the play area
+[5:49 PM] Joe: I'll play around and get your script in to my project that I had and then come Wednesday we can work together on the one project and get it in shape
+[5:50 PM] Joe: I'll have a play with collisions, if not we'll figure it out on Wednesday
+[5:51 PM] Kacey: Alrighto. Nice to be in the right place
