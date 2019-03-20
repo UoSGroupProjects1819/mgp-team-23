@@ -5,16 +5,28 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour {
 
     public Rigidbody Rigid;
-    public float MouseSensitivity;
     public float MoveSpeed;
-   // public float JumpForce;
-    public GameObject playerCamera;
 
     Quaternion _initialOrientation;
     Vector2 _currentAngles;
 
     CursorLockMode _previousLockState;
     bool _wasCursorVisible;
+
+
+
+    public enum RotationAxes { MouseXAndY = 0, MouseX = 1, MouseY = 2 }
+    public RotationAxes axes = RotationAxes.MouseXAndY;
+    readonly float sensitivityX = 1F;
+    readonly float sensitivityY = 1F;
+
+    readonly float minimumX = -360F;
+    readonly float maximumX = 360F;
+
+    readonly float minimumY = -60F;
+    readonly float maximumY = 60F;
+
+    float rotationY = 0F;
 
     void Start()
     { 
@@ -35,28 +47,30 @@ public class PlayerMovement : MonoBehaviour {
 
     void Update()
     {
-        Rigid.MoveRotation(Rigid.rotation * Quaternion.Euler(0, Input.GetAxis("Mouse X") * MouseSensitivity, 0));
-        //Debug.Log(this.playerCamera.transform.rotation.x);
+        if (axes == RotationAxes.MouseXAndY)
+        {
+            float rotationX = transform.localEulerAngles.y + Input.GetAxis("Mouse X") * sensitivityX;
 
-        if (this.playerCamera.transform.rotation.x <= -0.68f)
-        {
-            this.playerCamera.transform.Rotate(-0.67f, 0, 0);
+            rotationY += Input.GetAxis("Mouse Y") * sensitivityY;
+            rotationY = Mathf.Clamp(rotationY, minimumY, maximumY);
+
+            transform.localEulerAngles = new Vector3(-rotationY, rotationX, 0);
         }
-        else if (this.playerCamera.transform.rotation.x >= 0.68f)
+        else if (axes == RotationAxes.MouseX)
         {
-            this.playerCamera.transform.Rotate(0.67f, 0, 0);
+            transform.Rotate(0, Input.GetAxis("Mouse X") * sensitivityX, 0);
         }
         else
         {
-            this.playerCamera.transform.Rotate((Input.GetAxis("Mouse Y") * MouseSensitivity) * -1, 0, 0);
+            rotationY += Input.GetAxis("Mouse Y") * sensitivityY;
+            rotationY = Mathf.Clamp(rotationY, minimumY, maximumY);
+
+            transform.localEulerAngles = new Vector3(-rotationY, transform.localEulerAngles.y, 0);
         }
 
         Rigid.MovePosition(transform.position + (transform.forward * Input.GetAxis("Vertical") * MoveSpeed) + (transform.right * Input.GetAxis("Horizontal") * MoveSpeed));
 
-        //if (Input.GetKeyDown("space"))
-        //{
-        //    Rigid.AddForce(transform.up * JumpForce);
-        //}
+
     }
 
     void OnDisable()

@@ -4,13 +4,32 @@ using UnityEngine;
 
 public class EnemySpawning : MonoBehaviour
 {
+
+    float targetTime = 5.0f;
     public GameObject[] objectsToSpawn;
     public Transform[] spawnPoints; 
 
     public int spawnCount; 
     private readonly int objectIndex = 0; 
-    private int spawnIndex; 
-    private void Start()
+    private int spawnIndex;
+
+    void Update()
+    {
+        targetTime -= Time.deltaTime;
+        
+        if (targetTime <= 0.0f)
+        {
+            targetTime = 5.0f;
+            TimerEnded();
+
+        }
+
+
+    }
+
+
+
+    void TimerEnded()
     {
         for (int i = 0; i < spawnCount; i++)
         {
