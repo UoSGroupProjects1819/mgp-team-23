@@ -6,7 +6,7 @@ using UnityEngine;
 public class BaitSnap : MonoBehaviour
 {
     bool snapped = false;
-    public GameObject trap;
+    GameObject trap;
     
     void Update()
     {
@@ -24,7 +24,7 @@ public class BaitSnap : MonoBehaviour
         {
             snapped = true;
             trap = col.gameObject;
-            Destroy(this.GetComponent<Rigidbody>());
+            Destroy(this.GetComponent<Rigidbody>());  
         }
     }
 }
