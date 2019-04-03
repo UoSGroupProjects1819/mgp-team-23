@@ -32,7 +32,7 @@ public class EnemySpawning : MonoBehaviour
         for (int i = 0; i < spawnCount; i++)
         {
             spawnIndex = Random.Range(0, 3);
-            GameObject go = Instantiate(objectsToSpawn[objectIndex], spawnPoints[spawnIndex].position, Quaternion.identity);
+            GameObject go = Instantiate(objectsToSpawn[objectIndex], spawnPoints[spawnIndex].position, spawnPoints[spawnIndex].rotation);
         }
 
         spawnCycles++;
