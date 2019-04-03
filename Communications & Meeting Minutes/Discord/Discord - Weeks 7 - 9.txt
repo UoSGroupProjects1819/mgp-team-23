@@ -1,0 +1,62 @@
+12:59 PM] Andreea M.: hey @everyone ! could you please suggest a name for our game? we will vote for the one that we like best
+[10:43 PM] Kacey: eRATication?
+[9:10 PM] Andreea M.: i put that name you suggested as placeholder, yet i did not write rat in capital letters. i think it works, we will see what everyone has to say during the next meeting.
+[9:11 PM] Joe: Naming the game will be harder than actually making it
+[9:11 PM] Joe: Still trying to think of something
+[9:11 PM] Andreea M.: also, just letting everyone know, i could not upload my psd file to github, not even compressed. it is too big
+[9:12 PM] Kacey: The capitals was just my way to show the difference between Eratication  and Eradication
+[9:12 PM] Andreea M.: oh ok
+[9:12 PM] Andreea M.: oh, don t worry @Joe
+[11:02 AM] Tomas: Guys, I don't feel well, I think I will skip today's lesson if that's not a big problem.
+[11:03 AM] Joe: Ok Tomas no worries, thanks for letting us know. Hope you feel better soon!
+[11:03 AM] Andreea M.: no problem. just don't forget to put your tasks into verify before the end of the sprint. hope you will get well soon
+[11:50 AM] Andreea M.: @Tomas  you did not log time for the task that was put into verify. just do that and do not worry about the instructions one if it is not finished
+[12:01 PM] Tomas: Sorry, it is loged now. I uploaded Instructions doc in /Completed Brief Idead & Research/Research, but it's not perfect and probably needs some treatment. But it's there anyway.
+[9:59 AM] Joe: Hi guys - sorry I'm not gonna make it in today, I feel like death and wouldn't want to make anyone else ill! The project now has a functioning main menu, using your background @Andreea M. with play, how to and quit buttons - the how to takes you to a blank page with a back button where you can add some text / images as you see fit. The rat movement script is not ready, the approach I took didn't work at all - @Kacey can you work on that today? The script needs to just be modified to detect baited traps within 'x' units and move towards them, like you did with the collision for items and traps just make the rat, trap & bait despawn when they collide. I'll be available on Discord if you guys want to chat / need programming tasks / help etc. See you next week and good luck today!
+[10:01 AM] Andreea M.: thank you for letting us know. i hope you will feel better soon!
+[10:06 AM] Joe: Thank you! Also with the menu - the Quit button will not work inside the Unity editor, only when the project is built. If you want to add some things to it right click the Canvas -> UI -> what ever you would like to add. The Menu is saved as a separate scene called MainMenu and I've changed the project settings so that by default it will load first.
+[12:05 PM] Andreea M.: i am going up the stairs, sorry for being late
+[12:07 PM] Kacey: Just across from you
+[12:09 PM] Andreea M.: saw you
+[12:46 PM] Andreea M.: so @Joe , i gave @Kacey  tasks this sprint and i added one for you. I may have overestimated it but since it is a focus for next week i wanted to make sure there is enough time to do it. The task is about recording the video for next week. If needed we can have a meeting about it. I will make some notes and present them to you.
+[1:34 PM] Kacey: @Joe do you know what is causing this?
+
+[1:35 PM] Joe: Okay @Andreea M. no problem, I'll get that sorted. @Kacey has anyone uploaded to the GitHub whilst you've been making changes to it today? Also, is Unity still open with the project whilst you're trying to push changes?
+[1:37 PM] Kacey: It is but I tried earlier with it all closed
+[1:39 PM] Joe: Strange, the error at the end of that should only occur if Unity is still open. What you could do is put the Unity project you've worked on in a separate folder (I.E. Unity Projects/Kacey Project) instead of the Final Project folder just to make sure your work and changes are uploaded, and then we can overwrite the proper one with it later.
+[1:47 PM] Andreea M.: we solved the error for github
+[1:47 PM] Andreea M.: it was still opened that is why
+[1:47 PM] Joe: Thought so - good to know
+[7:23 PM] Andreea M.: @Tomas I have noticed on Github that many files have been deleted. This may be bad .  If you mass delete files , do it by using the desktop app and delete them all at once, specifying the reason for it. Yours have an hour apart from being deleted or uploads in between. Also, it is not necessary to delete them.
+[7:23 PM] Andreea M.:
+
+[7:49 PM] Andreea M.: @Joe  I have added some notes for the playtesting video that I hope would be of help for explaining some aspects of the game. You can find them in Completed Game Ideas and Research. If you wish to have a meeting about it or to discuss anything about the video, please tell me
+[8:14 PM] Joe: Ok no problem, I'll have a look over them and will be recording it tomorrow. If there's any issues I'll let you know on here.
+[8:25 PM] Andreea M.: Hey @Joe ! How is the video recording task going ?
+[8:37 PM] Joe: Hey - having some issues with sound recording. I am trying to fix them now so I can do a voiceover, but if I can't I can upload a run through video to github and we could voice over it tomorrow? Hopefully wont need to though. Trying a few more things first.
+[8:37 PM] Joe: since I notice the deadline to upload it is 10pm tomorrow
+[8:38 PM] Joe: I'm reinstalling my recording software atm
+[8:38 PM] Andreea M.: thank you for letting me know, please tell me if  it is necessary to do the voiceover tomorrow if it is not working. I really hope it will all go well
+[9:34 PM] Joe: Ok @Andreea M. I'm having no luck fixing my sound. :frowning: I am going to re-record and upload (to github) a slow walkthrough that spends enough time on each element so we can voice over it. Then we can do a voiceover tomorrow and upload it to where we're supposed to. I will try again in the morning too just in-case.
+[9:35 PM] Andreea M.: what hour should we meet at uni tomorrow since you want to retry it ?
+[9:48 PM] Joe: I can't meet before 12 sadly, but I will re-try it at home
+[9:48 PM] Andreea M.: but we need it by 10
+[9:49 PM] Andreea M.: I hope it works. What software are you using for recording?
+[10:28 PM] Joe: 10pm not 10am
+[10:30 PM] Andreea M.: oh right , my mistake
+[10:34 PM] Andreea M.: thank you for pointing out the right time, would have lived with the impression it is 10 am. What is the name of the software, if I may ask?
+[10:43 PM] Joe: I was using OBS to record with
+[11:06 PM] Kacey: when importing textures what file do i use?
+[11:06 PM] Andreea M.: tga
+[11:07 PM] Kacey: ty
+[11:35 PM] Joe: @Kacey I've verified your rat spawning task - whilst you're working on the bits you're doing now, could you modify the main project to how you had it the other week? I.E. with the stack of traps by the hut
+[11:36 PM] Kacey: can do. though i think i have broken a texture? so i imported the tga file and it has just greyscaled the art so we may need to adjust that
+[11:36 PM] Kacey: but i think that is just something i have done
+[11:37 PM] Joe: I'm sure that's easily fixable
+[12:28 AM] Kacey: so turns out i dont have a script that i wrote a little while ago which destroyed and traps rigid body and well i cant figure out how i did it to begin with
+[12:29 AM] Joe: No worries, we can figure it out and replicate it tomorrow
+[12:34 AM] Kacey: i think its just one line. and with that it fixes another issue
+[8:54 AM] Joe: Good news @everyone - I fixed my sound issue!! I'm uploading the commented over video now.
+[8:55 AM] Joe: So we can work on the game properly today and not need to worry about that at all.
+[8:55 AM] Joe: it's 4:11 long so within the time limit
+[8:58 AM] Joe: I used your notes document @Andreea M. to make sure I included everything you wanted in the commentary.
