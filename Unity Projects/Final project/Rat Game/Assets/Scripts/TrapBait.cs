@@ -19,12 +19,15 @@ public class TrapBait : MonoBehaviour
         {
             this.gameObject.tag = "baitedtrap";
             Debug.Log("baited trap");
-        }
 
+        }
+        
         if (this.transform.childCount >= 4)
         {
-            Destroy(this.gameObject);
-            Instantiate(particles, this.transform);
+                Destroy(this.gameObject);
+                Instantiate(particles, this.transform);
         }
+
+        
     }
 }
