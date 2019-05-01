@@ -1,0 +1,27 @@
+Notes for Andreea, Tomas, & Kacey. Rob & Guest speaker.
+
+24th, 25th, 26th games labs - 'Hack event'. Run by Innovate Suffolk, volunteers & participants wanted. 48 hours starting 6pm 24th, people 'hack' / invent businesses, to make an impact on mental health; literally no one raised their hand to volunteer. Maybe 6 out of 50-60 people raised their hand to say they wanted to attend.
+
+Rob:-
+
+NO PRESENTATION / PITCH!
+
+The session next week should be used to upload a web version of our game, or a .exe and all relevant files (I.E. we must build the project, I can do this).
+We must upload TO GITHUB a postmortem. Each group member must produce one.
+
+Postmortems: 
+	- ARE NOT an opportunity to settle scores / write about how bad other group members are.
+	- Rob can read the minutes of our project and see attendances, we do not need to include anything about this or any people problems.
+	- Be straightforward about what's been happening on the project, use detail, do not 'gloss' over details. This means include everything.
+		- I.E. Do not write 'The team had issues with communication' - instead for example say 'In week 6's minutes and discord logs, you can see the issue we had regarding...'.
+	- Did things happen the way we wanted? If not, why not? What would have caused it to be different?
+	- The first thing Rob will do is assemble the minutes, Jira hours logged, attendance sheets, GitHub commits, the feedback he has given us, to get an idea
+	  of where he thinks the project should be.
+	- The postmortem should reflect where the project actually is, not where we think
+	  the project could have been. It should match what Rob is able to see from evidence.
+	- If there is honesty about bad things that happened, or where the project falls short, that will be worth issuing a mark for the postmortem for. BE HONEST!
+
+Asset list:
+	- Include an asset list with your postmortem, does not need to be down to a line-by-line code level, or a singular asset, but rather a brief list of the work you have personally contributed to the project.
+
+The project ends on Wednesday, Rob does not expect us to be making any more assets, what he is looking for from our final week is to know that whatever we have made has been playtested (WE NEED TO PLAYTEST ON WEDNESDAY) and have taken notes on what they do/don't understand, what they do/don't enjoy, and we should include in the minutes for out last week what we WOULD do if we had more time, Rob will play our game so we should be able to display that we are aware of where the project needs more work.
