@@ -9,6 +9,7 @@ public class RatMovement : MonoBehaviour
     private float turnTime = 0.0f;
     private bool turnRight = false;
     private GameObject[] baitedTraps;
+    public int score = 0;
 
     bool trappedRat = false;
     GameObject trap;
@@ -75,6 +76,7 @@ public class RatMovement : MonoBehaviour
             trappedRat = true;
             trap = col.gameObject;
             Destroy(this.GetComponent<Rigidbody>());
+            score++;
         }
     }
 }

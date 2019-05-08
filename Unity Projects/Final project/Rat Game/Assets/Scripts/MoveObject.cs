@@ -12,7 +12,7 @@ public class MoveObject : MonoBehaviour
     private bool clicked = false;
     private GameObject item;
 
-    
+
 
     // Use this for initialization
     void Start()

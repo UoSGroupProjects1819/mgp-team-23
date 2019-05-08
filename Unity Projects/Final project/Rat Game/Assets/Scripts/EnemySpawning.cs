@@ -48,10 +48,24 @@ public class EnemySpawning : MonoBehaviour
             case 15:
                 spawnCount = 4;
                 break;
+            case 25:
+                spawnCount = 5;
+                break;
+            case 35:
+                spawnCount = 6;
+                break;
+            case 60:
+                spawnCount = 7;
+                break;
+            case 90:
+                spawnCount = 8;
+                break;
+            case 150:
+                spawnCount = 9;
+                break;
+
         }
     }
-
-
 
     private void OnDrawGizmos()
     {
