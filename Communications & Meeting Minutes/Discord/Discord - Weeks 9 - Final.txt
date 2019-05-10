@@ -1,0 +1,39 @@
+[9:14 AM] Joe: Hey @everyone - did you all have a good Easter break? I must admit I haven't looked at the project in the time we've been away. I'm going to attempt to catch up on things with it today.
+[9:07 PM] Andreea M.: Hello @everyone ! I hope everyone enjoyed the holiday break! I am just reminding you that I won't be able to attend tomorrow as I am unable to travel back to Ipswich sooner than next week. I will be for sure present for our last presentation. I am sorry for the inconvenience. I will upload tasks on Jira for the design part of the team tomorrow when the jam has started.
+[11:04 AM] Tomas: Hi, I cannot make it today as well, I got really sick few days ago. I'll stay in touch here on Discord if anything.
+[11:09 AM] Andreea M.: I just read Rob's email about final submission of group project
+[11:09 AM] Andreea M.: and i am not sure if i understood correctly but there is no presentation anymore?
+[11:26 AM] Kacey: You understood it properly. It says at the top that he is no longer asking us to make a presentation. Instead he wants a working version uploaded to itch
+[11:28 AM] Kacey: However unfortunately I'm not going to be able to come in. I'm really ill rn. I might be able to come in for a bit a lil later but I'm in a real bad state
+[11:44 AM] Joe: Ok well I'll pop in for the session to let Rob know that you've all informed of the absence, I'll set some tasks for us @Kacey - will mostly revolve around us being able to upload a working version for next week.
+[11:45 AM] Joe: We thankfully actually have until the end of next week for the submission, so we can finalise all the things we want to next week and then submit it at the end of the session. :smiley:
+[11:46 AM] Andreea M.: That would be great
+[11:46 AM] Andreea M.: thank you @Joe
+[11:47 AM] Andreea M.: What is left to do in terms of making the game fully working? has the scoring system been implemented ? how about the rat danger bar?
+[11:48 AM] Joe: That is essentially the two thing we need to do and then we're finished yep.
+[11:51 AM] Andreea M.: good good
+[11:52 AM] Andreea M.: i am really thinking of setting tasks to complete that postmortem for this week so we would save the troubles of doing it the night before deadline
+[11:52 AM] Andreea M.: was there any document attached by rob with the template for postmortem? if not, i may search for the last year's one and leave it on discord for everyone to download
+[11:53 AM] Joe: I will upload some minutes about what was done over easter from the programming side and what we have left, that's a good idea for tasks and a template would be very useful if you can find one. I don't think there was one with the email.
+[11:57 AM] Joe: There is a template up on the projector, so I think Rob is going to go through one. I will take some notes and upload them for you all.
+[11:57 AM] Andreea M.: wonderful, thank you
+[11:59 AM] Andreea M.: i am currently trying to set tasks for design but Jira seems to be very buggy
+[12:04 PM] Joe: It's extremely slow yeah
+[12:07 PM] Andreea M.: may  i close the sprint?
+[12:07 PM] Andreea M.: complete*
+[12:07 PM] Joe: Yep go ahead
+[12:12 PM] Andreea M.: I have set some tasks, not only for the design team but also for programming. Whenever you are ready @Joe you can start the sprint. Also , i am a bit unsure how we are going to write the minutes this time, I feel quite bad leaving everything on you, Joe. Tell me how you would prefer to do it for this week.
+[12:15 PM] Joe: I'll upload some half completed minutes for you to fill in the design side if that sounds good to you?
+[12:44 PM] Joe: Ok I've uploaded the minutes & some notes I took for you all from Rob's talk and a guest speaker promoting an event. I'm gonna leave the labs now and do some work at home, I've added tasks for next week for everyone as Rob stressed the importance of it for our marking. @everyone
+[12:48 PM] Andreea M.: no problem, thank you
+[9:40 AM] Andreea M.: Hey @Joe ! Would it be possible to have a folder on Git for the postmortems? Thank you!
+[9:44 AM] Joe: Done :smiley:
+[9:44 AM] Andreea M.: thank you !
+[10:52 AM] Andreea M.: unfortunately it does not allow me to upload my postmortem via web page
+[10:56 AM] Andreea M.:
+Attachment file type: document
+Project_Postmortem_Template-Andreea_Mazarianu.docx
+19.34 KB
+[10:57 AM] Andreea M.: i will leave it here, since i cannot download git hub for desktop
+[11:21 AM] Joe: @Kacey - don't forget your Postmortem is due today, you need to upload it to github.
+[11:22 AM] Joe: And @everyone thank you all for a good group project, we managed to get something that works uploaded by the end of it. Hope you all have a fantastic summer!
